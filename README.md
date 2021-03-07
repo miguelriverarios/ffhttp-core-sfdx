@@ -1,10 +1,5 @@
 # Apex HTTP Callout Framework - SFDX Project for Unlocked Packages
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=miguelriverarios&repo=ffhttp-core-sfdx">
-    <img alt="Deploy to Salesforce"
-        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
-</a>
-
 This repo is an offshot of the amazing [ffhttp-core](https://github.com/financialforcedev/ffhttp-core) by the folks over at [FinancialForce for Developers](https://github.com/financialforcedev). The purpose of this repo is simply to prove the same framework for making HTTP Callouts via an Unlocked Package, so that it plays nice in the new ecosytem.
 
 Instead of forking the repo, I deployed the project to one of my DevHubs and then pulled the classes and labels into an SFDX project, so I believe I've lost some of GitHub's automatic comparison between the main branch and this branch. That being said, the core code remains unchanged as of March 6, 2021 and should be caught up with the main branch. The original repo has been stable and idle for ~4 years, so I don't see any issue with this project being out of sync with the original branch any time soon, but I can't guarantee that I will keep up with future updates made to the original repo.
