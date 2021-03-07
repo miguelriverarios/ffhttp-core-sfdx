@@ -1,17 +1,17 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "default": true,
-            "package": "ffhttp-core-sfdx",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "51.0",
-    "packageAliases": {
-        "ffhttp-core-sfdx": "0Ho4T000000TN99SAG"
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "ffhttp-core-sfdx",
+      "versionName": "First Release",
+      "versionNumber": "1.0.0.NEXT"
     }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "51.0",
+  "packageAliases": {
+    "ffhttp-core-sfdx": "0Ho4T000000TN99SAG"
+  }
 }
