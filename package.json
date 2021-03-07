@@ -1,8 +1,8 @@
 {
-  "name": "salesforce-app",
+  "name": "ffhttp-core-sfdx",
   "private": true,
   "version": "1.0.0",
-  "description": "Salesforce App",
+  "description": "Converts the original ffhttp-core library into an SFDX project, so it can be deployed as an unlocked package",
   "scripts": {
     "lint": "npm run lint:lwc && npm run lint:aura",
     "lint:aura": "eslint **/aura/**",
